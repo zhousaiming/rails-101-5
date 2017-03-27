@@ -1,0 +1,2 @@
+class CommonsssController < ApplicationController
+end
